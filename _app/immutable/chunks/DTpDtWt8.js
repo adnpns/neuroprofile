@@ -1,0 +1,1 @@
+import{$ as e}from"./BBwlpSKL.js";e();
